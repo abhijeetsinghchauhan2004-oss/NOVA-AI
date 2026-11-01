@@ -1,5 +1,5 @@
 __pycache__/
-*.pyc
+*.py[cod]
 .venv/
 venv/
 .env
@@ -8,3 +8,8 @@ venv/
 *.sqlite3
 dist/
 build/
+*.spec
+.DS_Store
+Thumbs.db
+*.log
+desko_ai_database.sql
